@@ -4,7 +4,7 @@ $(function() {
  
     // Ссылка, которую получили на этапе публикации приложения
     let appLink = "https://script.google.com/macros/s/AKfycbxy5Dyf0dnyk4XHpGvqP_i7MQ6NQlP7SV4C-ky0_lNLS3QjPcnXW7LyYXstsQCUaBMK/exec";
- 
+    
     // Сообщение при успешной отправке данных
     let successRespond = 'Сообщение успешно отправлено. Посмотрите результат <a target="_blank" href="https://docs.google.com/spreadsheets/d/1XcTivCQL4EZJf1x2kB4UwGj5bAi0sfpx1PwtaKgOWHo/edit?usp=sharing">тут</a>';
  
